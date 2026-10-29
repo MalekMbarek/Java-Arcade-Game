@@ -2,8 +2,9 @@
 
 A small arcade written in **Java Swing** with two games, **Pong** and **Space Invaders**, selectable from a drop-down list. It is a practice project for object-oriented design patterns (Factory Method, Observer, MVC) and multithreading in Java.
 
-<!-- TODO: add screenshots/GIFs, e.g. docs/pong.png and docs/space-invaders.png -->
-<!-- ![Space Invaders](docs/space-invaders.png) -->
+
+https://github.com/user-attachments/assets/d2685486-a1b5-4a32-94d6-730b62a50ec8
+
 
 ## Features
 
